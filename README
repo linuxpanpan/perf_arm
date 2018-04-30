@@ -1,0 +1,3 @@
+cd zlib and mk.sh
+cd elfutils and mk.sh
+cd kernel/tool/perf and mk.sh
